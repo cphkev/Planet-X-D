@@ -1,0 +1,52 @@
+# Unity Generated Folders (Should not be in version control)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+ExportedObj/
+
+# Avoid tracking external assets (Modify if you use third-party assets in Git)
+Assets/ThirdPartyAssets/
+
+# Ignore JetBrains Rider files
+[Aa]ssets/Plugins/Editor/JetBrains*
+
+# Ignore Visual Studio and MonoDevelop files
+.vs/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.opendb
+*.VC.db
+
+# Unity-generated metadata files (should only track .meta files for assets you keep)
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Unity crash reports
+sysinfo.txt
+
+# Built game files
+*.apk
+*.unitypackage
+*.aab
+
+# Gradle cache
+.gradle/
+
+# Uncomment this if you want to ignore the Asset Store tools
+# /Assets/AssetStoreTools/
+
+# Crashlytics
+crashlytics-build.properties
+
+#Ignore ProjectSettings and UserSettings files
+/UserSettings/
