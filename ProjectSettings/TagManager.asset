@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 3
   tags:
   - Coin
+  serializedVersion: 3
+  tags:
+  - Planet
   layers:
   - Default
   - TransparentFX
@@ -14,8 +17,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - Ground
+  - Collision
   - 
   - 
   - 
