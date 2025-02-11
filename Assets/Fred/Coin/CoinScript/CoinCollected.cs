@@ -9,6 +9,7 @@ public class CoinCollected : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             AudioSource.PlayClipAtPoint(collectSound, transform.position);
+            GameManager.instance.AddCoin();
             Destroy(gameObject);
         }
     }
