@@ -374,7 +374,7 @@ PrefabInstance:
     - target: {fileID: 6353753698790017024, guid: 240ccabbc2a75984b8c3ba6266b0d1b6, type: 3}
       propertyPath: planet
       value: 
-      objectReference: {fileID: 1739261009}
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -578,11 +578,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gravity: -9.8
---- !u!4 &1739261009 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: c1495517b67955f4d945f2153a2edc4f, type: 3}
-  m_PrefabInstance: {fileID: 18092581}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
