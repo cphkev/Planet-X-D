@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Coin
   - Planet
+  - Water
   layers:
   - Default
   - TransparentFX
